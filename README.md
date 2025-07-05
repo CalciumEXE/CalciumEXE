@@ -1,10 +1,12 @@
-# 🪐 Calcium
+# 🪐 CalciumEXE
 
 **`Schüler · Programmierer · Technikbegeistert`**
 
-Ich bin Calcium. Ich interessiere mich für Technik, Coding und Systeme. 💻
+👋 Ich interessiere mich für Technik, Coding und Systeme. 💻
+
 
 ---
+
 
 ### 🧰 Skills
 
@@ -20,6 +22,8 @@ Ich bin Calcium. Ich interessiere mich für Technik, Coding und Systeme. 💻
 <img align="left" alt="JSON" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg">
 <br />
 
+
 #
+
 
 [website]: https://dennissbtc.de
